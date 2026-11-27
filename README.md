@@ -116,12 +116,3 @@ Images are published for each web server and each database, so you can match wha
 | **OpenLiteSpeed** | `:latest-litespeed` · `:latest-litespeed-mysql` | `:latest-litespeed-mariadb` | `:latest-litespeed-postgres` |
 
 Pin a release by swapping `latest` for the version, e.g. `webkul/bagisto:2.5.0-nginx-postgres`. Setting `DB_HOST` to an external server skips the bundled database entirely. Full details in [`docker/production/README.md`](docker/production/README.md).
-
-
-## ☁️ Cloud Installation via Amazon AMI
-
-You can also deploy Bagisto quickly using our pre-configured Amazon Machine Image (AMI) available on the AWS Marketplace:
-
-[**Bagisto en AWS**](https://aws.amazon.com/marketplace/pp/prodview-r3xv62axcqkpa)
-
-This AMI allows you to get started with Bagisto on a cloud environment without manual setup. Ideal for scalable production or testing environments.
