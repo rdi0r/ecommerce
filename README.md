@@ -122,6 +122,6 @@ Pin a release by swapping `latest` for the version, e.g. `webkul/bagisto:2.5.0-n
 
 You can also deploy Bagisto quickly using our pre-configured Amazon Machine Image (AMI) available on the AWS Marketplace:
 
-<a target="https://aws.amazon.com/marketplace/pp/prodview-r3xv62axcqkpa" target="_blank">Launch Bagisto on AWS</a>
+[**Bagisto en AWS**](<link target="https://aws.amazon.com/marketplace/pp/prodview-r3xv62axcqkpa" target="_blank">)
 
 This AMI allows you to get started with Bagisto on a cloud environment without manual setup. Ideal for scalable production or testing environments.
